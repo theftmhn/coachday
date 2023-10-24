@@ -1,0 +1,19 @@
+.body{
+    background-color: #a35050;
+    height: 100%;
+}
+
+ .div-voice{
+    margin-top: 300px;
+  display: grid;
+  place-items: center;
+}
+
+.voice{
+    
+    width: 40%; 
+    color: #FFFFFF;
+    box-shadow: 5px 5px 20px rgba(0,0, 0, 0.4);
+    border-radius: 90px;
+    transform: scale(1.05);
+}
